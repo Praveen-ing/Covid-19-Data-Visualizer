@@ -80,7 +80,8 @@ OR
 
 Run a local server and open http://localhost:PORT/index.html
 
-##📁 Project Structure
+## 📁 Project Structure
+```bash
 covid19-data-visualization/
 ├── index.html              # Home dashboard
 ├── q1.html                 # Global COVID-19 Analysis
@@ -98,7 +99,7 @@ covid19-data-visualization/
 │   └── *.js                # Page-specific logic
 └── .vscode/                # Editor configuration
 
-
+```
 
 ## 📊 Data Sources
 COVID-19 Data
@@ -115,7 +116,7 @@ Data for Indian metropolitan cities (Delhi, Mumbai, etc.)
 
 Temporal comparisons before, during, and after lockdowns
 
-##📈 Visualizations
+## 📈 Visualizations
 1. Global Analysis
 Interactive world map showing pandemic spread
 
@@ -157,7 +158,7 @@ Implement machine learning models for forecasting and prediction
 
 Expand coverage to include more cities and additional pollution metrics
 
-##🗃️ Resources
+## 🗃️ Resources
 README: This file
 
 Project Report: report.pdf
