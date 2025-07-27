@@ -69,7 +69,7 @@ The COVID-19 Data Visualization Dashboard is a comprehensive web application tha
 Clone the repository:
 
 ```bash
-
+https://github.com/Praveen-ing/Covid-19-Data-Visualizer.git
 ```
 Navigate to the project directory:
 
